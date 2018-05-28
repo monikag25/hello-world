@@ -1,2 +1,2 @@
 # hello-world
-firs hello world on git
+this file is created to understand master and feature branch
